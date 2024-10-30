@@ -1,0 +1,4 @@
+<FilesMatch "botmonitoring.dat|.txt">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
